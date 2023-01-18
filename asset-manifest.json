@@ -1,17 +1,20 @@
 {
   "files": {
     "main.css": "/blogg_webb22/static/css/main.073c9b0a.css",
-    "main.js": "/blogg_webb22/static/js/main.5276f6bc.js",
+    "main.js": "/blogg_webb22/static/js/main.460a2fcd.js",
     "static/js/787.51f55d44.chunk.js": "/blogg_webb22/static/js/787.51f55d44.chunk.js",
+    "static/media/Selection_IMPORT_TABLE.png": "/blogg_webb22/static/media/Selection_IMPORT_TABLE.f8af2708891702d5321c.png",
+    "static/media/Selection_EXPORT_TABLE.png": "/blogg_webb22/static/media/Selection_EXPORT_TABLE.542f669f37e89df6917c.png",
     "static/media/1-mysql.jpeg": "/blogg_webb22/static/media/1-mysql.f4a8646e906eafd2c18d.jpeg",
+    "static/media/Selection_EDIT_NAME.png": "/blogg_webb22/static/media/Selection_EDIT_NAME.ea5f6134d8cbf23f2843.png",
     "static/media/logo.svg": "/blogg_webb22/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/blogg_webb22/index.html",
     "main.073c9b0a.css.map": "/blogg_webb22/static/css/main.073c9b0a.css.map",
-    "main.5276f6bc.js.map": "/blogg_webb22/static/js/main.5276f6bc.js.map",
+    "main.460a2fcd.js.map": "/blogg_webb22/static/js/main.460a2fcd.js.map",
     "787.51f55d44.chunk.js.map": "/blogg_webb22/static/js/787.51f55d44.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.5276f6bc.js"
+    "static/js/main.460a2fcd.js"
   ]
 }
